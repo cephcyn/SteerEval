@@ -1,0 +1,19 @@
+name: steerabilityeval
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - ipykernel
+  - ipywidgets
+  - pip
+  - pip:
+    - numpy
+    - pandas
+    - tqdm
+    - requests
+    - scipy
+    - scikit-learn
+    - huggingface_hub
+    - huggingface_hub[cli]
+    - transformers
+    - sentence-transformers

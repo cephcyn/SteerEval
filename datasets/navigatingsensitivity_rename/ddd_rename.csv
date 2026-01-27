@@ -1,0 +1,141 @@
+name_old,name_rewrite,20251222_ddd_name,20251222_ddd_supporters,20251222_ddd_description,is_in_50v50
+Does a horse die,a horse dies,a horse dies,0,"This trigger is for people who are upset by the death of a horse. Horses are often seen as majestic creatures, and their death can be a difficult scene to watch, especially for animal lovers or horse enthusiasts. ",y
+Does the dog die,the dog dies,a dog dies,678,"This trigger is for people who are upset by the death of a canine companion. Dogs are often portrayed as loyal friends in films, and their death can be very triggering. ",y
+Are animals abused,animals are abused,animals are abused,1,"This trigger is for viewers who are disturbed by scenes of animal cruelty or violence. This can include physical abuse, neglect, or forced fighting. ",y
+Does a pet die,a pet dies,a pet dies,245,"This trigger is a broader category encompassing the death of any animal companion, including dogs, cats, rabbits, hamsters, etc. ",y
+Is there dog fighting,there is dog fighting,there's dog fighting,188,Dog fighting is a cruel and illegal activity that involves forcing dogs to fight each other. Even depictions of dog fighting can be very disturbing. ,y
+Are there bugs,there are bugs,there are bugs,45,"This trigger is for people with entomophobia, a fear of insects. Even brief appearances of bugs can cause anxiety and distress. ",y
+Is there a dead animal,there is a dead animal,there's a dead animal,1,This trigger is for viewers who are generally disturbed by the sight of dead animals on screen. ,y
+Does a dragon die,a dragon dies,a dragon dies,1,"This trigger is for viewers who may be attached to a fictional creature's well-being, even if it's a fantasy element like a dragon. This can be especially true if the dragon is portrayed as a sympathetic character. ",y
+Does a cat die,a cat dies,a cat dies,1,"This trigger is for people who are upset by the death of a feline companion. Cats can form strong bonds with their owners, and their death on screen can be emotionally difficult to watch. ",y
+Does an animal die,an animal dies,"an animal dies (besides a dog, cat, or horse)",1,This trigger is a broader category encompassing the death of any animal depicted on screen. It's useful for viewers who are sensitive to animal death in general. ,y
+Are there snakes,there are snakes,there are snakes,25,"This trigger is for people with ophidiophobia, a fear of snakes. Even brief appearances of snakes can cause anxiety and distress for some viewers. ",y
+Are there spiders,there are spiders,there are spiders,75,"This trigger is for people with arachnophobia, a fear of spiders. Even brief appearances of spiders can cause anxiety and distress for some viewers. ",y
+Is a child abandoned by a parent,a child is abandoned by a parent,a child is abandoned by a parent or guardian,45,"This trigger is for individuals who have experienced or fear abandonment, particularly in childhood. It can evoke strong emotional responses related to loss, fear, and insecurity.",y
+Is someone gaslighted,someone is gaslighted,someone gets gaslighted,1,Gaslighting is a form of psychological manipulation where a person is made to question their own sanity or perception of reality. This trigger can be distressing for survivors of emotional abuse and those who are particularly vulnerable to manipulation. ,y
+Does the abused become the abuser,the abused becomes the abuser,the abused becomes the abuser,34,"This trigger depicts a cycle of violence where a victim of abuse becomes the perpetrator. It can be triggering for survivors of abuse who struggle with feelings of guilt or shame, or those who fear repeating the cycle. ",n
+Is someone stalked,someone is stalked,someone is stalked,25,Stalking is a pattern of unwanted and intrusive behavior that can cause fear and anxiety. This trigger can be distressing for survivors of stalking and those who have experienced harassment or threats. ,y
+Is a child abused,a child is abused,there's child abuse,1,"This trigger specifically focuses on the abuse of children, which can be particularly disturbing and upsetting. It can be triggering for survivors of child abuse, those who work with children, and individuals who have a strong protective instinct towards children. ",y
+Is there domestic violence,there is domestic violence,there's domestic violence,1,"This trigger encompasses a range of abusive behaviors within intimate relationships, including physical, emotional, sexual, and financial abuse. It can be triggering for survivors of domestic violence and those who have witnessed or experienced unhealthy relationships. ",y
+Is there addiction,there is addiction,there's addiction,0,"This trigger refers to the broader concept of addiction, encompassing various behaviors beyond substance abuse. This includes process addictions such as gambling, sex addiction, workaholism, and other compulsive behaviors. It can be triggering for individuals struggling with any form of addiction or those supporting someone with an addiction. ",y
+Does someone use drugs,someone uses drugs,someone uses drugs,14,"This trigger encompasses the use of various illicit substances and can be distressing for people recovering from drug addiction, those with family members struggling with addiction, or individuals concerned about the negative impacts of drug use. ",y
+Does someone abuse alcohol,someone abuses alcohol,alcohol abuse,24,"This trigger involves depictions of excessive or harmful alcohol consumption, which can be triggering for individuals struggling with alcohol addiction or those affected by alcoholism. ",y
+Is someone drugged,someone is drugged,someone is drugged,42,A character is unknowingly given a substance that alters their mental or physical state without their consent. ,y
+Is someone restrained,someone is restrained,someone is restrained,39,A character is physically prevented from moving freely through the intentional use of force or physical barriers. ,y
+Is someone sexually assaulted,someone is sexually assaulted,someone is sexually assaulted,1,A character is sexually assaulted or harassed. ,y
+Is someone raped onscreen,someone is raped onscreen,someone is sexually assaulted onscreen,1,A character is raped on screen,y
+Is there cannibalism,there is cannibalism,there's cannibalism,50,Depictions of humans consuming human flesh. ,y
+Is there body horror,there is body horror,there's body horror,1,"Does some sort of experimentation, mutations, or other event happen that warps the body. Graphic and disturbing depictions of physical bodies. ",y
+Is there amputation,there is amputation,there's amputation,48,Depictions of limbs being removed. ,y
+Is there finger/toe mutilation,there is finger/toe mutilation,there's finger/toe mutilation,1,Depictions of injuries to fingers or toes. ,y
+Is someone crushed to death,someone is crushed to death,someone is crushed to death,48,Depictions of a person being compressed to death by extreme force. ,y
+Is there Achilles Tendon injury,there is Achilles Tendon injury,there's Achilles Tendon injury,1,Depictions of injuries to the Achilles tendon. ,y
+Does a head get squashed,a head gets squashed,heads get squashed,77,Graphic depictions of heads being crushed or compressed. ,y
+Is someone burned alive,someone is burned alive,someone is burned alive,1,Depictions of a person being consumed by fire. ,y
+Is someone buried alive,someone is buried alive,someone is buried alive,1,Depictions of a person being buried while still alive. ,y
+Is there a hanging,there is a hanging,there are hangings,60,Depictions of people suspended by a rope or other object around the neck. ,y
+Is there eye mutilation,there is eye mutilation,there's eye mutilation,1,Graphic depictions of injuries to eyes. ,y
+Is someone tortured,someone is tortured,there's torture,119,Depictions of inflicting severe pain or suffering. ,y
+Is there excessive gore,there is excessive gore,there's excessive gore,132,"Overwhelming amounts of blood, violence, and bodily fluids. ",y
+Is there shaving/cutting,there is shaving/cutting,there's shaving/cutting,55,Depictions of self-harm or other cutting actions. ,y
+Are any teeth damaged,there are teeth damaged,teeth are damaged,1,Depictions of injuries to teeth. ,y
+Is there genital trauma/mutilation,there is genital trauma/mutilation,there's genital trauma/mutilation,1,Graphic depictions of injuries to genitalia. ,y
+Does someone asphyxiate,someone asphyxiates,someone asphyxiates,39,"A person is deprived of oxygen, leading to unconsciousness or death. ",y
+Does someone struggle to breathe,someone struggles to breathe,someone struggles to breathe,1,"Choking, suffocation, strangling, hyperventilating, and other depictions of difficulty in breathing. ",y
+Does someone becomes unconscious,someone becomes unconscious,Someone becomes unconscious,12,"A person loses consciousness due to injury, illness, or other causes. ",y
+Does someone break a bone,someone breaks a bone,someone breaks a bone,1,Depictions of bone fractures. ,y
+Does someone have a seizure,someone has a seizure,someone has a seizure,25,Depictions of uncontrolled electrical activity in the brain. ,y
+Does someone fall to their death,someone falls to their death,someone falls to their death,20,Depictions of a fatal fall. ,y
+Does someone fall down stairs,someone falls down stairs,someone falls down stairs,20,Depictions of a person falling down a flight of stairs. ,y
+Is an infant abducted,an infant is abducted,an infant is abducted,35,Depictions of a baby or infant being taken away without permission. ,y
+Is a minor sexualized,a minor is sexualized,a minor is sexualized,129,"Depictions of children in a sexual manner, including suggestive poses, clothing, or language. ",y
+Does a kid die,a kid dies,a kid dies,103,"Depictions of a child's death, whether accidental, intentional, or from illness. ",y
+Does someone sacrifice themselves,someone sacrifices themselves,someone sacrifices themselves,19,A character intentionally dies to save others. ,y
+Does a non-human character die,a non-human character dies,a non-human character dies,49,The death of an animal or fictional creature. ,n
+Is the R word used,the r-word is used,the r-slur is used,39,The use of a derogatory term against people with intellectual disabilities. ,y
+Does someone overdose,someone overdoses,someone overdoses,24,A person dies or becomes seriously ill due to taking an excessive amount of a substance. ,y
+Does someone cheat,someone cheats,someone cheats,30,"A romantic partner engages in infidelity, causing betrayal, heartbreak, and relationship breakdown.",y
+Does a parent die,a parent dies,a parent dies,36,"The death of a parent, leading to profound emotional trauma and life changes. ",y
+Is a child's toy destroyed,a child's toy is destroyed,A child's dear toy is destroyed,1,"The loss of a beloved toy, symbolizing emotional security and comfort.",y
+Is someone kidnapped,someone is kidnapped,someone is kidnapped,14,"A family member is taken away against their will, leading to fear, anxiety, and trauma. ",y
+Are there razors,there are razors,there are razors,26,"Depictions of sharp blades, often associated with danger and self-harm.",y
+Are there mannequins,there are mannequins,there are mannequins,7,"Depictions of life-sized human models, often associated with uncanny valley and unease.",y
+Is there a shower scene,there is a shower scene,there are shower scenes,15,,y
+Are there ghosts,there are ghosts,there's ghosts,7,"Depictions of spirits of the dead, often associated with haunting and supernatural phenomena. ",y
+Is someone possessed,someone is possessed,someone is possessed,21,A person is controlled by a supernatural or evil entity.,y
+Are there clowns,there are clowns,there are clowns,18,"Depictions of clowns, often associated with childhood trauma and fear. ",y
+Are there jumpscares,there are jumpscares,there are jump scares,1,Sudden and unexpected moments of startling noise or visual effects. ,y
+Is there audio gore,there is audio gore,There's audio gore,64,"Sound effects that depict violence, injury, or bodily fluids. ",y
+Does someone fart or spit,someone farts or spits,"there's farting
+there's spitting","18
+20","Depictions of flatulence. 
+Depictions of a person expelling saliva. ",y
+Does someone wet/soil themselves,someone wets/soils themselves,someone wets/soils themselves,31,Depictions of a person urinating or defecating on themselves or in their pants. ,y
+Does someone vomit,someone vomits,someone vomits,162,Depictions of a person expelling stomach contents.,y
+Are there 9/11 depictions,there are 9/11 depictions,there are 9/11 depictions,7,Depictions of the September 11th terrorist attacks. ,n
+Is there copaganda,there is copaganda,there is copaganda,1,"Propaganda that portrays law enforcement in a positive light, often ignoring or downplaying issues of police misconduct. ",y
+Is there bisexual cheating,there is bisexual cheating,there's bisexual cheating,1,Depictions of infidelity involving a bisexual person.,n
+Is there a hospital scene,there is a hospital scene,there's a hospital scene,1,Scenes set in a hospital environment. ,y
+Are needles/syringes used,needles/syringes are used,needles/syringes are used,1,The use of sharp objects to inject or withdraw substances. ,y
+Does someone have cancer,someone has cancer,someone has cancer,1,Depictions of a person diagnosed with cancer. ,y
+Is there a mental institution scene,there is a mental institution scene,there's a mental institution scene,1,Scenes set in a psychiatric facility. ,y
+Is electro-therapy used,electro-therapy is used,electro-therapy is used,1,The use of electrical current to treat medical conditions. ,y
+Does someone die by suicide,someone dies by suicide,someone dies by suicide,1,Depictions of a person taking their own life. ,y
+Does someone suffer from PTSD,someone suffers from PTSD,someone suffers from PTSD,40,Depictions of individuals experiencing post-traumatic stress disorder. ,y
+Is a mentally ill person violent,there is a mentally ill person violent,a mentally ill person is violent,46,Portraying individuals with mental illnesses as inherently dangerous or violent.,y
+Is there autism specific abuse,there is autism specific abuse,Autism specific abuse,1,Abuse targeting individuals with autism spectrum disorder.,y
+Is there body dysmorphia,there is body dysmorphia,there's body dysmorphia,1,Depictions of individuals with an excessive preoccupation with perceived flaws in their appearance.,y
+Is there misophonia,there is misophonia,there's misophonia,45,"Scenes that trigger misophonia, such as repetitive sounds, eating noises, or other sounds that can be intensely irritating. ",y
+Is there body dysphoria,there is body dysphoria,there's body dysphoria,1,"Depictions of a mismatch between a person's physical sex and their gender identity, otr otherwise feeling dissatisfied with their own bodies.",n
+Are there anxiety attacks,there are anxiety attacks,someone has an anxiety attack,1,A person experiences a sudden surge of intense fear or discomfort.,y
+Does someone have an eating disorder,someone has an eating disorder,someone has an eating disorder,1,Depictions of individuals with disordered eating patterns. ,y
+Does someone attempt suicide,someone attempts suicide,Someone attempts suicide,1,Depictions of a person attempting to take their own life.,y
+Is there a claustrophobic scene,there is a claustrophobic scene,there's a claustrophobic scene,29,Depictions of confined spaces that can trigger fear or anxiety in individuals with claustrophobia. ,y
+Is there D.I.D. misrepresentation,there is D.I.D. misrepresentation,D.I.D. Misrepresentation,26,Inaccurate or stereotypical depictions of dissociative identity disorder.,n
+Does someone self harm,someone self harms,someone self harms,1,Depictions of individuals intentionally causing harm to themselves. ,y
+"Does someone say ""I'll kill myself""'","someone says ""I'll kill myself""","someone says ""I'll kill myself""",39,Expressions of suicidal ideation. ,y
+Does a baby cry,a baby cries,a baby cries,1,"Depictions of a crying infant, which can be irritating or distressing for some viewers. ",y
+Is there obscene language/gestures,there is obscene language/gestures,there is obscene language/gestures,11,Offensive or vulgar language or gestures that can be disturbing or offensive. ,y
+Are there flashing lights or images,there are flashing lights or images,there's flashing lights or images,62,Rapidly flashing lights or images that can trigger seizures or discomfort in some viewers. ,y
+Is there shakey cam,there is shakey cam,shaky cam is used,61,A handheld camera technique that can create a sense of disorientation or unease. ,y
+Is the fourth wall broken,the fourth wall is broken,the fourth wall is broken,13,"The character directly addresses the audience, blurring the lines between reality and fiction, which can be unsettling. ",y
+Are there abortions,there are abortions,someone has an abortion,26,The termination of a pregnancy. ,y
+Is a baby stillborn,a baby is stillborn,a baby is stillborn,50,The birth of a dead baby. ,y
+Are there babies or unborn children,there are babies or unborn children,there is a baby or unborn child,21,Depictions of a baby or unborn child. ,y
+Does a pregnant person die,a pregnant person dies,a pregnant person dies,37,The death of a pregnant individual. ,y
+Does someone miscarry,someone miscarries,someone miscarries,43,The spontaneous loss of a pregnancy before the 20th week. ,y
+Is there childbirth,there is childbirth,there's childbirth,1,Depictions of the process of giving birth. ,y
+Is there ableist language or behavior,there is ableist language or behavior,there's ableist language or behavior,1,Language or actions that discriminate against or stigmatize people with disabilities. ,y
+Are there homophobic slurs,there are homophobic slurs,there are homophobic slurs,1,The use of derogatory terms against LGBTQ+ individuals. ,y
+Is there antisemitism,there is antisemitism,there's antisemitism,1,Prejudice or discrimination against Jewish people. ,y
+Is there aphobia,there is aphobia,there's aphobia,27,Prejudice or discrimination against asexual people. ,n
+Are there n-words,there are n-words,someone says the n-word,1,The use of a racial slur against Black people. ,y
+Is someone misgendered,someone is misgendered,someone is misgendered,1,Using an incorrect gender pronoun or term to refer to a person. ,y
+Does an LGBT person die,an LGBT person dies,an LGBT person dies,1,"The death of an individual who identifies as lesbian, gay, bisexual, transgender, or queer. ",y
+Is a minority is misrepresented,a minority is misrepresented,a minority is misrepresented,38,Depictions of minority groups in a stereotypical or harmful way. ,y
+Is there hate speech,there is hate speech,someone speaks hate speech,1,The use of language that promotes hatred or violence against a particular group. ,y
+Does the black guy die first,the black guy dies first,the black guy dies first,1,A trope in which Black characters are disproportionately likely to die in media. ,y
+Are there fat jokes,there are fat jokes,there's fat jokes,1,Jokes that mock or ridicule people based on their weight. ,y
+"Are there ""Man in a dress"" jokes","there are ""Man in a dress"" jokes","there are ""Man in a dress"" jokes",1,Jokes that mock transgender women or men who do not conform to traditional gender roles. ,y
+Is there a large age gap,there is a large age gap,there's a large age gap,46,A significant difference in age between romantic partners. ,y
+Is there sexual content,there is sexual content,there is sexual content,82,Depictions of sexual acts or behaviors. ,y
+Are there nude scenes,there are nude scenes,there are nude scenes,64,Depictions of naked bodies. ,y
+Is there bestiality,there is bestiality,there's bestiality,115,Depictions of sexual acts involving animals. ,n
+Is someone sexually objectified,someone is sexually objectified,someone is sexually objectified,54,A person is treated as a sexual object rather than a human being. ,y
+Are there incestuous relationships,there are incestuous relationships,there are incestuous relationships,104,Sexual relationships between close family members. ,y
+Is a male character ridiculed for crying,a male character is ridiculed for crying,a male character is ridiculed for crying,1,Depictions of a male character being mocked or shamed for expressing emotions. ,y
+Does someone have a chronic illness,someone has a chronic illness,someone has a chronic illness,18,Depictions of individuals living with long-term health conditions. ,y
+Does someone have a stroke,someone has a stroke,someone has a stroke,20,"Depictions of individuals experiencing a stroke, a sudden loss of brain function. ",y
+Is there dementia/Alzheimer's,there is dementia/Alzheimer's,someone has dementia/Alzheimer's,35,Depictions of individuals with progressive cognitive decline. ,y
+Is someone homeless,someone is homeless,someone is homeless,5,Depictions of individuals without a permanent home. ,y
+Are there fat suits,there are fat suits,there's fat suits,37,The use of costumes to make actors appear overweight. ,n
+Does it have a sad ending,it has a sad ending,the ending is sad,80,A conclusion that evokes feelings of sadness or loss. ,y
+Is Santa (et al) spoiled,Santa (et al) is spoiled,Santa (et al) is spoiled,9,"Depictions of characters revealing the truth about fictional or mythical figures, such as Santa Claus, the Easter Bunny, or the Tooth Fairy, to children who believe in them. This can lead to disappointment, disillusionment, and a loss of innocence. ",y
+Does a car honk or tires screech,a car honks or tires screech,a car honks or tires screech,16,"Loud noises made by vehicles, which can be startling or irritating. ",y
+Does a car crash,a car crashes,a car crashes,33,Depictions of a car accident. ,y
+Does a plane crash,a plane crashes,a plane crashes,22,Depictions of an airplane accident. ,y
+Is someone hit by a car,someone is hit by a car,a person is hit by a car,31,Depictions of a person being struck by a vehicle. ,y
+Is there gun violence,there is gun violence,there's gun violence,40,Depictions of violence involving firearms. ,y
+Is there a nuclear explosion,there is a nuclear explosion,there's a nuclear explosion,15,Depictions of a powerful explosion caused by nuclear energy. ,y
+Is there blood/gore,there is blood/gore,there's blood/gore,74,"Depictions of blood, violence, and bodily fluids. ",y
+Does someone drown,someone drowns,someone drowns,42,Depictions of a person being submerged in water and unable to breathe. ,y
