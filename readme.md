@@ -1,4 +1,4 @@
-# steerabilityeval
+# SteerEval
 
 ## Setup
 
