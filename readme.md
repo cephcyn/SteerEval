@@ -29,6 +29,10 @@ To use a new steering intervention: same as above, except functions are defined 
 
 To implement a new evaluation metric: same as above, except functions are defined in `src/score/`.
 
+## Results and datasets
+
+See [https://huggingface.co/collections/cephcyn/steereval-datasets-and-results](https://huggingface.co/collections/cephcyn/steereval-datasets-and-results) for dataset and experiment result files
+
 ## Citation
 
 (Currently anonymous)
