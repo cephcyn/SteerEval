@@ -49,4 +49,16 @@ See [https://huggingface.co/collections/cephcyn/steereval-datasets-and-results](
 
 ## Citation
 
-(Currently anonymous)
+Please cite our paper if you use this in your own work:
+
+```
+@misc{zhou2026steerevalframeworkevaluatingsteerability,
+      title={SteerEval: A Framework for Evaluating Steerability with Natural Language Profiles for Recommendation}, 
+      author={Joyce Zhou and Weijie Zhou and Doug Turnbull and Thorsten Joachims},
+      year={2026},
+      eprint={2601.21105},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR},
+      url={https://arxiv.org/abs/2601.21105}, 
+}
+```
