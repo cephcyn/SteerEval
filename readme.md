@@ -1,5 +1,7 @@
 # SteerEval
 
+Codebase for "SteerEval: A Framework for Evaluating Steerability with Natural Language Profiles for Recommendation" : [https://arxiv.org/abs/2601.21105](https://arxiv.org/abs/2601.21105).
+
 ## Setup
 
 1. Use the Conda environment (or install appropriate pip packages directly) in `environment.yaml`
